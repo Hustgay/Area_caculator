@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_Caculator", "Area_Caculator\Area_Caculator.csproj", "{A1B9DE8C-7FC9-43A4-8412-4DA3733A6192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_CaculatorUnitTest", "Area_CaculatorTests1\Area_CaculatorUnitTest.csproj", "{5342BD0F-19F8-4117-B7A2-C032B7C94B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B9DE8C-7FC9-43A4-8412-4DA3733A6192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B9DE8C-7FC9-43A4-8412-4DA3733A6192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B9DE8C-7FC9-43A4-8412-4DA3733A6192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B9DE8C-7FC9-43A4-8412-4DA3733A6192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5342BD0F-19F8-4117-B7A2-C032B7C94B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5342BD0F-19F8-4117-B7A2-C032B7C94B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5342BD0F-19F8-4117-B7A2-C032B7C94B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5342BD0F-19F8-4117-B7A2-C032B7C94B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72049E28-459D-43CD-A0E3-D9266285961A}
+	EndGlobalSection
+EndGlobal
